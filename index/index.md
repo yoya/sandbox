@@ -4,6 +4,8 @@
 [../img/rgb.png]
 [../img/rgb.png](rgb.png)
 
+[rgb.png](../img/rgb.png)
+
 <hr>
 
 <center> [../img/rgb.png](rgb.png) </center>
