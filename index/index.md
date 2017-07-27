@@ -1,7 +1,11 @@
 はたして表示されるか？
 
-[[../rgb.png]]
-[../rgb.png]
-[../rgb.png](rgb.png)
+[[../img/rgb.png]]
+[../img/rgb.png]
+[../img/rgb.png](rgb.png)
 
-<center> [../rgb.png](rgb.png) </center>
+<hr>
+
+<center> [../img/rgb.png](rgb.png) </center>
+
+<img src="../img/rgb.png" />
